@@ -1,1 +1,1 @@
-0x00. ES6 Basics javascript``
+0x00. ES6 Basics javascripit
